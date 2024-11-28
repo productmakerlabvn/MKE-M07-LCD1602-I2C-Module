@@ -1,6 +1,6 @@
 # Mạch hiển thị MKE-M07 LCD1602 I2C module
 
-![](/temp_link_mke_m07_lcd1602/image/lcd1.jpg)
+![](/image/lcd1.jpg)
 
 ## Giới thiệu
 
@@ -58,12 +58,12 @@ Mạch hiển thị MKE-M07 LCD1602 I2C module thuộc hệ sinh thái phần c�
 
 ## Hình ảnh sản phẩm
 
-![MKE-M07 LCD1602 I2C front of module](/temp_link_mke_m07_lcd1602/image/lcd1.jpg)
-![MKE-M07 LCD1602 I2C back of module](/temp_link_mke_m07_lcd1602/image/lcd3.jpg)
+![MKE-M07 LCD1602 I2C front of module](/image/lcd1.jpg)
+![MKE-M07 LCD1602 I2C back of module](/image/lcd3.jpg)
 
 ## Kích thước sản phẩm
 
-![MKE-M07 LCD1602 I2C module dimension](/temp_link_mke_m07_lcd1602/image/lcd2.jpg)
+![MKE-M07 LCD1602 I2C module dimension](/image/lcd2.jpg)
 
 ## Hướng dẫn sử dụng
 
