@@ -1,6 +1,6 @@
 # Mạch hiển thị MKE-M07 LCD1602 I2C module
 
-![](/temp_link_mke_m07_lcd1602/image/lcd1.jpg)
+![](/image/lcd1.jpg)
 
 ## Giới thiệu
 
@@ -22,6 +22,8 @@ Mạch hiển thị MKE-M07 LCD1602 I2C module thuộc hệ sinh thái phần c�
 - Thuộc hệ sinh thái phần cứng Robotics MakerEdu, tương thích tốt nhất khi sử dụng với các mạch điều khiển trung tâm của MakerEdu và MakerEdu Shield.
 
 ## Các chân tín hiệu
+
+![](/image/lcd3.jpg)
 
 <table><thead>
   <tr>
@@ -58,12 +60,12 @@ Mạch hiển thị MKE-M07 LCD1602 I2C module thuộc hệ sinh thái phần c�
 
 ## Hình ảnh sản phẩm
 
-![MKE-M07 LCD1602 I2C front of module](/temp_link_mke_m07_lcd1602/image/lcd1.jpg)
-![MKE-M07 LCD1602 I2C back of module](/temp_link_mke_m07_lcd1602/image/lcd3.jpg)
+![MKE-M07 LCD1602 I2C front of module](/image/lcd1.jpg)
+![MKE-M07 LCD1602 I2C back of module](/image/lcd3.jpg)
 
 ## Kích thước sản phẩm
 
-![MKE-M07 LCD1602 I2C module dimension](/temp_link_mke_m07_lcd1602/image/lcd2.jpg)
+![MKE-M07 LCD1602 I2C module dimension](/image/lcd2.jpg)
 
 ## Hướng dẫn sử dụng
 
@@ -112,7 +114,10 @@ Mạch hiển thị MKE-M07 LCD1602 I2C module thuộc hệ sinh thái phần c�
 [Hướng dẫn nạp chương trình, cài đặt Extension Micro:bit cơ bản.](https://github.com/makerlabvn/MakeCode-microbit)
 
 - Khởi động phần mềm MakeCode tại: [https://makecode.microbit.org/](https://makecode.microbit.org/)
-- Chọn My Projects / Import / Import URL theo đường link của chương trình mẫu: [https://github.com/devmakerlabvn/](https://github.com/devmakerlabvn/makecode-mke-s01-ultrasonic-distance-sensor)
+- Chọn My Projects / Import / Import URL theo đường link của chương trình mẫu:
+
+      https://github.com/devmakerlabvn/makecode-mke-m07-lcd1602-i2c-module
+      
 - Kết nối Micro:bit với máy tính và nạp chương trình.
 - Kết nối mạch Micro:bit với MakerEdu Shield, màn hình LCD vào cổng [I2C] trên MakerEdu Shield, **cấp nguồn qua cổng USB của MakerEdu Shield** để thấy chương trình hoạt động.
 
